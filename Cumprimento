@@ -1,0 +1,8 @@
+saudacao = input("Indique a saudação. Exemplo: Oi, E aí, Olá: ")
+
+pessoa = input("Indique a pessoa a cumprimentar: ")
+
+if (pessoa == "Camila Spakauskas"):
+   print(saudacao + "," + pessoa + "!Você é aluna do curso de Analytics da Descomplica!")
+else:   
+  print(saudacao + "," + pessoa + "! Você é o professor do curso de Analytics da Descomplica!")
