@@ -5,4 +5,4 @@ with open('nomes_saudados.txt') as f:
   count = 0
   for line in lines:
     count += 1
-    print('f{line}')
+    print(f'{line}')
