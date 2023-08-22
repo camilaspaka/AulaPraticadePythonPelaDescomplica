@@ -1,0 +1,12 @@
+num1 = 1.5
+
+num2 = 6.3
+
+# Somando os dois números
+
+sum = num1 + num2
+
+# Exibindo números
+
+num1 = int(input("Entre com número 1 "))
+num2 = int(input("Entre com número 2 "))
