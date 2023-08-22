@@ -14,7 +14,7 @@ from lightgbm import LGBMClassifier
 from sklearn.metrics import roc_auc_score, recall_score, confusion_matrix, classification_report
 import subprocess
 import joblib
-
+#Isso é especifico para google colab 
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 
